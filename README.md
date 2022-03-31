@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/hopepsycho">hopepsycho</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hopepsycho/JulieMwol&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hopepsycho/kunjappan2.0&title=Profile%20Views)
 
 ----
 <p align="center">
