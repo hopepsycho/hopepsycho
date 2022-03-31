@@ -12,10 +12,10 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="HOPEPSYCHO" src="https://img.shields.io/badge/HOPEPSYCHO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HOPEPSYCHO P4" src="https://img.shields.io/badge/HOPEPSYCHO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/hopepsycho"><img title="Author" src="https://img.shields.io/badge/Author-hopepsycho/kunjappan2.0?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/hopepsycho"><img title="Author" src="https://img.shields.io/badge/Author-hopepsycho/kunjappan?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/hopepsycho">hopepsycho</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hopepsycho/kunjappan2.0&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hopepsycho/kunjappan&title=Profile%20Views)
 
 ----
 <p align="center">
@@ -36,3 +36,4 @@ Project created by <a href="https://github.com/hopepsycho">hopepsycho</a> to mak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="hopepsycho" /></p>
 </p>
+ 
